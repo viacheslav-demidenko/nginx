@@ -1,2 +1,2 @@
-# nginx-docker
-## Settings for nginx 
+# nginx
+## Settings for nginx in docker
