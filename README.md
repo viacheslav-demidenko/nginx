@@ -1,2 +1,2 @@
-# /conf.d/default.conf
+# nginx-conf
 ## Settings for nginx in docker
